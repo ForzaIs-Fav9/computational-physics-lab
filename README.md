@@ -35,6 +35,7 @@ The primary objectives of this project are:
 
 ## Repository Structure
 
+```
 computational-physics-lab/
 │
 ├── simulations/
@@ -55,6 +56,7 @@ computational-physics-lab/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
 ### Folder Descriptions
 
@@ -112,13 +114,18 @@ Database-driven experimentation will allow structured evaluation of physical beh
 
 Clone the repository:
 
+```
 git clone https://github.com/ForzaIs-Fav9/computational-physics-lab
 cd computational-physics-lab
+```
 Install dependencies:
+```
 pip install -r requirements.txt
+```
 Run a simulation (example):
+```
 python simulations/projectile/projectile.py
-
+```
 ---
 
 ## Development Philosophy
